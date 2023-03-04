@@ -1,0 +1,9 @@
+Package: com.binnichtaktiv.iptvxpatch
+Name: IPTVX Patch
+Author: binnichtaktiv <->
+Description: IPTVX Premium features unlocked
+Depends: mobilesubstrate
+Maintainer: binnichtaktiv <->
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
